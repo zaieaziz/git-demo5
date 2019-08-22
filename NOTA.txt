@@ -13,5 +13,7 @@ sekali sahaja dlm satu pc
 git config --global user.name "zaieaziz"
 git config --global user.email "isz_alwyz@yahoo.com"
 $  git commit -m "create index.html"
+$  git commit -m "modify index.html"
+
 
 
